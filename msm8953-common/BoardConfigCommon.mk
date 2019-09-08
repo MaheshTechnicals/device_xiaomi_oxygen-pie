@@ -18,6 +18,8 @@ VENDOR_PATH := device/xiaomi/msm8953-common
 
 TARGET_SPECIFIC_HEADER_PATH := $(VENDOR_PATH)/include
 
+BUILD_BROKEN_DUP_RULES := true
+
 # Architecture
 TARGET_ARCH := arm64
 TARGET_ARCH_VARIANT := armv8-a
