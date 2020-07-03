@@ -1,2 +1,1 @@
-add_lunch_combo havoc_oxygen-userdebug
-add_lunch_combo havoc_oxygen-eng
+add_lunch_combo superior_oxygen-userdebug
