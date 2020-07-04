@@ -59,3 +59,6 @@ PRODUCT_FULL_TREBLE_OVERRIDE := true
 
 # Inherit from the proprietary version
 -include vendor/xiaomi/oxygen/BoardConfigVendor.mk
+
+# Generate qti-telephony-common.jar file. 
+TARGET_PROVIDES_QTI_TELEPHONY_JAR := true
