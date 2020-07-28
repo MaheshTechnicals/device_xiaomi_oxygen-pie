@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/superior_oxygen.mk
+    $(LOCAL_DIR)/bootleg.mk

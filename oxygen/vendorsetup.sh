@@ -1,1 +1,1 @@
-add_lunch_combo superior_oxygen-userdebug
+add_lunch_combo bootleg_oxygen-userdebug
