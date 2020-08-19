@@ -22,11 +22,11 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, device/xiaomi/oxygen/device.mk)
 
 # Inherit some common aosp  stuff.
-$(call inherit-product, vendor/superior/config/common.mk)
+$(call inherit-product, vendor/ion/config/common.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := oxygen
-PRODUCT_NAME := superior_oxygen
+PRODUCT_NAME := ion_oxygen
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Mi Max 2
 PRODUCT_MANUFACTURER := Xiaomi
